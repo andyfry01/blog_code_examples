@@ -1,0 +1,20 @@
+{
+  "name": "mongodb_mass_updating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test",
+    "test:watch": "mocha ./test --watch",
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "colors": "^1.1.2",
+    "lodash": "^4.17.5",
+    "mocha": "^5.0.0",
+    "mongodb": "^3.0.2"
+  }
+}
