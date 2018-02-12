@@ -10,13 +10,14 @@ This is a repo that accompanies [this blog post](https://medium.com/@andyfry01/s
 ## To download: 
 
 Navigate to wherever you'd like to download the project files, and then: 
-`git clone URL OF GIT REPO`
+`git clone https://github.com/andyfry01/blog_code_examples.git`
 
 
 ## Installation
 
 From the root of the project folder: 
 
+`cd mongodb_mass_updating`
 `npm install`
 
 ## To run 
@@ -27,12 +28,14 @@ From the root of the project folder:
 
 2) Run the updater.js script and watch the magic happen!
 
+`cd mongodb_mass_updating`
 `npm run start`
 
 The first thing the script is going to do is populate your local MongoDB with the test database. Make sure you don't have a database named 'mongodb_mass_doc_updater' or else it will get overwritten! But really... chances are you're good. Also, your MongoDB should be running on the default port: localhost:27017
 
 ## Problems? 
 
+`cd mongodb_mass_updating`
 `npm run test` or `npm run test:watch` to run the unit test suite. 
 
 
