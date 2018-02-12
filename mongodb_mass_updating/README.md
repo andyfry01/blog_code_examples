@@ -1,6 +1,6 @@
 # MongoDB Mass Document Updater
 
-This is a repo that accompanies [this blog post](insert link!). You can download this repo to run the code from the post and experiment with it/adapt it for your own purposes.
+This is a repo that accompanies [this blog post](https://medium.com/@andyfry01/search-through-and-update-every-field-in-a-mongodb-document-c86a1094d901). You can download this repo to run the code from the post and experiment with it/adapt it for your own purposes.
 
 ## Prerequisites
 
